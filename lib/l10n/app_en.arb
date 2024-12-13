@@ -1,0 +1,260 @@
+{
+    "english": "English",
+    "@english": {
+        "description": ""
+    },
+    "spanish": "Spanish",
+    "@spanish": {
+        "description": ""
+    },
+    "loading": "Loading",
+    "@loading": {
+        "description": ""
+    },
+    "noResults": "No results",
+    "@noResults": {
+        "description": ""
+    },
+    "searchFailed": "Search failed",
+    "@searchFailed": {
+        "description": ""
+    },
+    "somethingWentWrong": "Something went wrong",
+    "@somethingWentWrong": {
+        "description": ""
+    },
+    "updateFailed": "Update failed",
+    "@updateFailed": {
+        "description": ""
+    },
+    "today": "Today",
+    "@today": {
+        "description": ""
+    },
+    "tomorrow": "Tomorrow",
+    "@tomorrow": {
+        "description": ""
+    },
+    "monday": "Monday",
+    "@monday": {
+        "description": ""
+    },
+    "tuesday": "Tuesday",
+    "@tuesday": {
+        "description": ""
+    },
+    "wednesday": "Wednesday",
+    "@wednesday": {
+        "description": ""
+    },
+    "thursday": "Thursday",
+    "@thursday": {
+        "description": ""
+    },
+    "friday": "Friday",
+    "@friday": {
+        "description": ""
+    },
+    "saturday": "Saturday",
+    "@saturday": {
+        "description": ""
+    },
+    "sunday": "Sunday",
+    "@sunday": {
+        "description": ""
+    },
+    "aqi": "AQI",
+    "@aqi": {
+        "description": ""
+    },  
+    "airQualityIndex": "Air Quality Index",
+    "@airQualityIndex": {
+        "description": ""
+    },
+    "good": "Good",
+    "@good": {
+        "description": ""
+    },
+    "fair": "Fair",
+    "@fair": {
+        "description": ""
+    },
+    "moderate": "Moderate",
+    "@moderate": {
+        "description": ""
+    },
+    "poor": "Poor",
+    "@poor": {
+        "description": ""
+    },
+    "veryPoor": "Very poor",
+    "@veryPoor": {
+        "description": ""
+    },
+    "extremelyPoor": "Extremely poor",
+    "@extremelyPoor": {
+        "description": ""
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": ""
+    },
+    "added": "Added",
+    "@added": {
+        "description": ""
+    },
+    "introduceLocation": "Introduce location",
+    "@introduceLocation": {
+        "description": ""
+    },
+    "addToInitialPage": "Add to initial page",
+    "@addToInitialPage": {
+        "description": ""
+    },
+    "seeInInitialPage": "See in initial page",
+    "@seeInInitialPage": {
+        "description": ""
+    },
+    "cleared": "Cleared",
+    "@cleared": {
+        "description": ""
+    },
+    "cloudy": "Cloudy",
+    "@cloudy": {
+        "description": ""
+    },
+    "rainy": "Rainy",
+    "@rainy": {
+        "description": ""
+    },
+    "snowy": "Snowy",
+    "@snowy": {
+        "description": ""
+    },
+    "unknown": "Unknown",
+    "@unknown": {
+        "description": ""
+    },
+    "sunrise": "Sunrise",
+    "@sunrise": {
+        "description": ""
+    },
+    "sunset": "Sunset",
+    "@sunset": {
+        "description": ""
+    },
+    "temperature": "Temperature",
+    "@temperature": {
+        "description": ""
+    },
+    "feelsLike": "Feels like",
+    "@feelsLike": {
+        "description": ""
+    },
+    "humidity": "Humidity",
+    "@humidity": {
+        "description": ""
+    },
+    "precipitationProbability": "Precipitation probability",
+    "@precipitationProbability": {
+        "description": ""
+    },
+    "pressure": "Pressure",
+    "@pressure": {
+        "description": ""
+    },
+    "windSpeed": "Wind speed",
+    "@windSpeed": {
+        "description": ""
+    },
+    "uvIndex": "UV index",
+    "@uvIndex": {
+        "description": ""
+    },
+    "completedAqiForecast": "Complete AQI forecast",
+    "@completedAqiForecast": {
+        "description": ""
+    },
+    "dataProvided": "Data provided by {api}",
+    "@dataProvided": {
+        "description": "",
+        "placeholders": {
+            "api": {
+                "type": "String",
+                "example": "Api"
+            }
+        }
+    },
+    "manageCities": "Manage Cities",
+    "@manageCities": {
+        "description": ""
+    },
+    "selectElements": "Select elements",
+    "@selectElements": {
+        "description": ""
+    },
+    "items_selected": "{count, plural, =1 {# item selected} other {# items selected}}",
+    "@items_selected": {
+        "description": "",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": ""
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": ""
+    },
+    "language": "Language",
+    "@language": {
+        "description": ""
+    },
+    "units": "Units",
+    "@units": {
+        "description": ""
+    },
+    "temperatureUnit": "Temperature unit",
+    "@temperatureUnit": {
+        "description": ""
+    },
+    "windSpeedUnit": "Wind speed unit",
+    "@windSpeedUnit": {
+        "description": ""
+    },
+    "pressureUnit": "Pressure unit",
+    "@pressureUnit": {
+        "description": ""
+    },
+    "kmhDescription": "Kilometers per hour (km/h)",
+    "@kmhDescription": {
+        "description": ""
+    },
+    "mphDescription": "Miles per hour (mph)",
+    "@mphDescription": {
+        "description": ""
+    },
+    "hPaDescription": "Hectopascales (hPa)",
+    "@hPaDescription": {
+        "description": ""
+    },
+    "mbarDescription": "Millibars (mbar)",
+    "@mbarDescription": {
+        "description": ""
+    },
+    "madedBy": "Maded by {person}",
+    "@madedBy": {
+        "description": "",
+        "placeholders": {
+            "person": {
+                "type": "String",
+                "example": "Lorem Ipsum"
+            }
+        }
+    }
+}
