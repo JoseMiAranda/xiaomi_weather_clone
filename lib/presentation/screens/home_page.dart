@@ -7,9 +7,16 @@ class HomePage extends StatelessWidget {
   static const String name = '/';
   const HomePage({super.key});
 
+  bool isMobile() {
+    return !(kIsWeb ||
+        (defaultTargetPlatform == TargetPlatform.windows ||
+            defaultTargetPlatform == TargetPlatform.linux ||
+            defaultTargetPlatform == TargetPlatform.macOS));
+  }
+
   @override
   Widget build(BuildContext context) {
-    return !kIsWeb
+    return isMobile()
         ? const AutoRouter()
         : SingleChildScrollView(
             child: Container(
