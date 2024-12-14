@@ -38,7 +38,7 @@ class RouterObserver extends AutoRouterObserver {
         ? lightSystemUiOverlayStyle
         : darkSystemUiOverlayStyle.copyWith(
             systemNavigationBarColor: weather == null
-                ? null
+                ? Colors.blue
                 : Backgrounds.getBackground(weather!.current.condition)
                     .gradient!
                     .colors
